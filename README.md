@@ -1,8 +1,6 @@
 # Prediksi Harga Bitcoin dengan Arsitektur Seq2Seq LSTM
 **Multivariate Multi-Horizon Time Series Forecasting**
 
-Dimas Tri M
-
 ---
 
 ## Tentang Project Ini
